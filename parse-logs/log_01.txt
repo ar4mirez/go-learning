@@ -1,0 +1,8 @@
+google.com - - [timestap] "GET /search?query=hola" 200 OK 346
+bing.com - - [timestap] "GET /search?query=hola" 200 OK 346
+yahoo.com - - [timestap] "GET /search?query=hola" 200 OK 346
+bing.com - - [timestap] "GET /search?query=hola" 200 OK 346
+ask.com - - [timestap] "GET /search?query=hola" 200 OK 346
+yahoo.com - - [timestap] "GET /search?query=hola" 200 OK 346
+ask.com - - [timestap] "GET /search?query=hola" 200 OK 346
+yahoo.com - - [timestap] "GET /search?query=hola" 200 OK 346

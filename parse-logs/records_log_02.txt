@@ -1,0 +1,4 @@
+bing.com 1
+yahoo.com 2
+google.com 4
+ask.com 1
